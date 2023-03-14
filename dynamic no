@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script type="text/javascript">
-        //Static number 
         //dynamic number 
         let a=prompt("enter the first number ");
         let b=prompt("enter the second number ");
