@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About myself </title>
+    <script type="text/javascript">
+        console.log(" My name is Raju Kumar. \n A Student of Motihari college of engineering ,Motihari. \n Branch- Computer Science & Engineering. \n Roll no- 213** \n Reg. - 2110511**** \n Cotact no- 70796***** \n Email- raju*******@gmail.com")
+        </script>
+</head>
+<body>
+    
+</body>
+</html>
