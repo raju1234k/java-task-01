@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Square of No.</title>
+    <script>
+         document.write(" <h2>Square of two number in javascript</h2> <br> ");
+        var num_val=parseInt(prompt("enter 1st no number "));
+        var Square;
+        var Square=num_val*num_val ;
+        document.write("enter the 1st number is " +num_val+ ".<br>");
+        document.write("Square of the 1st number is " +Square+"." );
+        var num_val=parseInt(prompt("enter 2nd no number"));
+        var Square;
+        var Square=num_val*num_val ;
+        document.write("enter the 2nd number is " +num_val+ ".<br>");
+        document.write("Square of the 2nd number is " +Square+"." );
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
